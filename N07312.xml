@@ -112,8 +112,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:009338_0000_10317C99C8B5C068"/>
-            <pb facs="tcp:009338_0001_10317C9C01D423C0"/>
+            <pb facs="unknown:009338_0000_10317C99C8B5C068"/>
+            <pb facs="unknown:009338_0001_10317C9C01D423C0"/>
             <p>An Eclogue Occaſioned by the <hi>Death</hi> of the Reverend <hi>ALEXANDER CUMMING,</hi> A. M.</p>
             <p>On the 25th of <hi>Auguſt</hi> A. D. 1763. <hi>Aetat.</hi> 37.</p>
             <q>
@@ -125,7 +125,7 @@
                <hi>BOSTON:</hi> Printed by <hi>D</hi> &amp; <hi>J. Kneeland,</hi> for J EDWARDS, in <hi>Corn-hill.</hi> MDCCLXIII</p>
          </div>
          <div type="argument">
-            <pb facs="tcp:009338_0002_10317C9D84682898"/>
+            <pb facs="unknown:009338_0002_10317C9D84682898"/>
             <head>The <hi>Argument.</hi>
             </head>
             <p>
@@ -140,7 +140,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:009338_0003_10317C9FCF2EA090"/>
+            <pb facs="unknown:009338_0003_10317C9FCF2EA090"/>
             <head>An <hi>Eclogue.</hi>
             </head>
             <sp>
@@ -184,7 +184,7 @@
                <l>At this delightful Seaſon.—</l>
             </sp>
             <sp>
-               <pb n="4" facs="tcp:009338_0004_10317CA152E53438"/>
+               <pb n="4" facs="unknown:009338_0004_10317CA152E53438"/>
                <speaker>ALBINUS.</speaker>
                <l>— What is that <milestone type="tcpmilestone" unit="unspecified" n="25"/>
                </l>
@@ -242,7 +242,7 @@
                </l>
                <l>Calm and compos'd, I met a neighbouring Swain</l>
                <l>
-                  <pb n="5" facs="tcp:009338_0005_10317CA4204ADC68"/>Returning from the Town; into my Hands</l>
+                  <pb n="5" facs="unknown:009338_0005_10317CA4204ADC68"/>Returning from the Town; into my Hands</l>
                <l>He gave a Letter, and ſtrait bid adieu.—</l>
                <l>Black was the Seal, Omen lugubrious!</l>
                <l>Scarce had I op'd the yielding Folds, when lo!<milestone type="tcpmilestone" unit="unspecified" n="60"/>
@@ -295,7 +295,7 @@
                <l>'With ſuch ſurpaſſing, ſplendid Radiance,</l>
                <l>'Yet by ungrateful Man was ſcarcely own'd;</l>
                <l>
-                  <pb n="6" facs="tcp:009338_0006_10317CAA6991EC08"/>'Baſe Man <hi>would</hi> ſleep, and by it's chearing Beams</l>
+                  <pb n="6" facs="unknown:009338_0006_10317CAA6991EC08"/>'Baſe Man <hi>would</hi> ſleep, and by it's chearing Beams</l>
                <l>'Would never be enlightned, nor receive</l>
                <l>'The Emanations of it's heav'nly Light.<milestone type="tcpmilestone" unit="unspecified" n="95"/>
                </l>
@@ -343,7 +343,7 @@
                <l>Shall break the Bread of Life, unto our Souls.<milestone type="tcpmilestone" unit="unspecified" n="125"/>
                </l>
                <l>
-                  <pb n="7" facs="tcp:009338_0007_10317CABED2D3F20"/>Lament, and mourn, ye poor bereaved Flock;</l>
+                  <pb n="7" facs="unknown:009338_0007_10317CABED2D3F20"/>Lament, and mourn, ye poor bereaved Flock;</l>
                <l>Your Beauty's wither'd, and your Glory fled.</l>
             </sp>
             <sp>
@@ -396,7 +396,7 @@
                </l>
             </sp>
             <sp>
-               <pb n="8" facs="tcp:009338_0008_10317CAD70063C38"/>
+               <pb n="8" facs="unknown:009338_0008_10317CAD70063C38"/>
                <speaker>FLORIO.</speaker>
                <l>—Begin, my Friend,</l>
                <l>The ſacred Taſk, while I devoutly join.</l>
